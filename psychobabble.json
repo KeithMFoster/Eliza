@@ -1,0 +1,89 @@
+[
+  ["I feel (.*)",
+   ["Why do you feel {0}?",
+    "Do you often feel {0}?",
+    "When do you usually feel {0}?",
+    "Can you tell me more about why you feel {0}?"]],
+
+  ["I have (.*)",
+   ["Why do you have {0}?",
+    "Can you tell me more about having {0}?",
+    "Do you enjoy having {0}?",
+    "Do you think having {0} is a good thing?"]],
+
+  ["I (.*) you",
+   ["Why do you {0} me?",
+    "Do you often {0} people?",
+    "Do you {0} anyone else?"]],
+
+  ["Why (.*)",
+   ["Why don't you tell me the reason why {0}?",
+    "Can you give me a specific example of why {0}?",
+    "What is your opinion on why {0}?"]],
+
+  ["I want (.*)",
+   ["What would it mean to you if you got {0}?",
+    "Why do you want {0}?",
+    "What would you do if you got {0}?",
+    "If you got {0}, then what?"]],
+
+  ["(.*) friend (.*)",
+   ["Tell me more about your friends.",
+    "How do your friends make you feel?",
+    "Do your friends support you?",
+    "How do your friends contribute to your life?"]],
+  
+      ["I need (.*)",
+     ["Why do you need {0}?",
+      "Would it really help you to get {0}?",
+      "Are you sure you need {0}?"]],
+    
+    ["Why don'?t you ([^?]*)??",
+     ["Do you really think I don't {0}?",
+      "Perhaps eventually I will {0}.",
+      "Do you really want me to {0}?"]],
+    
+    ["Why can''?t I ([^?]*)??",
+     ["Do you think you should be able to {0}?",
+      "If you could {0}, what would you do?",
+      "I don't know -- why can't you {0}?",
+      "Have you really tried?"]],
+    
+    ["I can'?t (.*)",
+     ["How do you know you can't {0}?",
+      "Perhaps you could {0} if you tried.",
+      "What would it take for you to {0}?"]],
+    
+    ["I am (.*)",
+     ["Did you come to me because you are {0}?",
+      "How long have you been {0}?",
+      "How do you feel about being {0}?"]],
+    
+    ["I'm (.*)",
+     ["How does being {0} make you feel?",
+      "Do you enjoy being {0}?",
+      "Why do you tell me you're {0}?",
+      "Why do you think you're {0}?"]],
+    
+    ["Are you ([^?]*)??",
+     ["Why does it matter whether I am {0}?",
+      "Would you prefer it if I were not {0}?",
+      "Perhaps you believe I am {0}.",
+      "I may be {0} -- what do you think?"]],
+    
+    ["What (.*)",
+     ["Why do you ask?",
+      "How would an answer to that help you?",
+      "What do you think?"]],
+    
+    ["How (.*)",
+     ["How do you suppose?",
+      "Perhaps you can answer your own question.",
+      "What is it you're really asking?"]],
+    
+    ["Because (.*)",
+     ["Is that the real reason?",
+      "What other reasons come to mind?",
+      "Does that reason apply to anything else?",
+      "If {0}, what else must be true?"]]
+]
